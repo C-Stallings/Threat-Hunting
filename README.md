@@ -3,6 +3,16 @@
 ## Scenario
 **Incident:** `windows-target-1` was found to be internet-facing for several days, attracting multiple failed login attempts from various remote IP addresses. Investigation confirmed no unauthorized access occurred.
 
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/9e53c3f6-76b9-4c80-bd61-e84d60a832ef" 
+    height="367" 
+    width="643" 
+    alt="SS_Threat-Hunting_Image"
+  />
+</p>
+
 ---
 
 ## Timeline & Findings
